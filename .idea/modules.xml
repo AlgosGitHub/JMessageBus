@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bus/Bus.iml" filepath="$PROJECT_DIR$/Bus/Bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JMessageBus.iml" filepath="$PROJECT_DIR$/JMessageBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRemoteMethodCaller/JRemoteMethodCaller.iml" filepath="$PROJECT_DIR$/JRemoteMethodCaller/JRemoteMethodCaller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sockets/Sockets.iml" filepath="$PROJECT_DIR$/Sockets/Sockets.iml" />
+    </modules>
+  </component>
+</project>

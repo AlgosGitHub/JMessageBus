@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JMessageBus">
+    <output-path>$PROJECT_DIR$/../Moneypenny/lib</output-path>
+    <root id="archive" name="JMessageBus.jar">
+      <element id="module-output" name="JMessageBus" />
+      <element id="module-output" name="Bus" />
+      <element id="module-output" name="Sockets" />
+      <element id="module-output" name="JRemoteMethodCaller" />
+    </root>
+  </artifact>
+</component>
